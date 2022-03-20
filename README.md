@@ -14,7 +14,7 @@
 
 ## Installation
 
-Install via `composer require rinvex/laravel-support`
+Install via `composer require ahmedzidan/laravel-support`
 
 
 ## Note for Laravel v9
